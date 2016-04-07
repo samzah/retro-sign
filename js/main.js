@@ -1,6 +1,4 @@
-
-var $lines = $('.lines');
-var $engage = $('.engage');
+var $svg = $('svg');
 var $btn = $('.btn');
 
 $btn.on('click', function (e) {
