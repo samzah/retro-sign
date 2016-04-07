@@ -38,6 +38,7 @@ svg {
 
 .btn:active {
   transform: scale(.9, .9);
+  transform-origin: center;
 }
 
 .lines path {
